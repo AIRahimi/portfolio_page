@@ -1,2 +1,2 @@
 # portfolio_page
-Portfolio page for freeCodeCap
+Portfolio page for freeCodeCamp
