@@ -10,3 +10,70 @@ body {
 .montserrat {
 	font-family: 'Montserrat', sans-serif;
 }
+
+h2, h3, h4, h5, h6, p {
+	color: white;
+}
+
+.about-fa{
+	margin:5em auto 2em;
+	padding:0;
+	max-width:512px;
+	border:0;
+	text-align:right;
+}
+
+.about-fa:after{
+	content:'\f2bd';
+	font-family:FontAwesome;
+	display:inline-block;
+	position:relative;
+	top:-.8em;
+	padding:0 .25em;
+	font-size:5em;
+	background-color:#transparent;
+}
+
+.portfolio-fa{
+	margin:5em auto 2em;
+	padding:0;
+	max-width:512px;
+	border:0;
+	text-align:right;
+}
+
+.portfolio-fa:after{
+	content:'\f1c6';
+	font-family:FontAwesome;
+	display:inline-block;
+	position:relative;
+	top:-.8em;
+	padding:0 .25em;
+	font-size:5em;
+	background-color:#transparent;
+}
+
+.contact-fa{
+	margin:5em auto 2em;
+	padding:0;
+	max-width:512px;
+	border:0;
+	text-align:right;
+}
+
+.contact-fa:after{
+	content:'\f2bb';
+	font-family:FontAwesome;
+	display:inline-block;
+	position:relative;
+	top:-.8em;
+	padding:0 .25em;
+	font-size:5em;
+	background-color:#transparent;
+}
+
+.colored-border {
+	border-width: 5px;
+	border-color: #333;
+	border-radius: 50%;
+}
