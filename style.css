@@ -77,3 +77,15 @@ h2, h3, h4, h5, h6, p {
 	border-color: #333;
 	border-radius: 50%;
 }
+
+.padtop {
+	padding: 1.75em 0 0 0;
+}
+
+.margtop {
+	margin: 5em 0 0 0;
+}
+
+.imgborder {
+	border: 10px solid #333;
+}
